@@ -1,0 +1,30 @@
+# Fastify
+
+> Fast and low overhead web framework, for Node.js
+
+- [Why](/index.md)
+
+## benchmarks
+
+- [Benchmarks](/benchmarks.md): Leveraging our experience with Node.js performance, Fastify has been built from the ground up to be as fast as possible.
+
+## contribute
+
+- [Join the Fastify community](/contribute.md): Fastify is a growing and friendly community, and would be lucky to have your contributions! 🙇‍♂️ Contributions are always welcome, we only ask you to follow the Contribution Guidelines and the Code Of Conduct.
+
+## ecosystem
+
+- [Plugins](/ecosystem.md): - There are  core plugins and  community plugins
+
+## organizations
+
+- [Organizations using Fastify](/organizations.md): Fastify is proudly powering a large ecosystem of organizations and products out there.
+
+## resources
+
+- [Resources](/resources.md): Welcome to the Fastify resources page! Here, you can find a collection of useful resources for learning and exploring Fastify.
+
+## docs
+
+- [Fastify](/docs/latest.md)
+- [Fastify v5.2.x](/docs/v5.2.x.md)

@@ -1,0 +1,47 @@
+- name: 'HospitalRun'
+  image: 'hospitalrun.svg'
+  link: 'https://hospitalrun.io/'
+
+- name: 'Nearform'
+  image: 'nearform.svg'
+  link: 'https://nearform.com'
+
+- name: 'Platformatic'
+  image: 'platformatic.svg'
+  link: 'https://platformatic.dev'
+
+- name: 'val town'
+  image: 'val-town.svg'
+  link: 'https://www.val.town/'
+  sponsor: true
+  tier: 'tier_3'
+
+- name: 'Mercedes-Benz Group'
+  image: 'mercedes-benz.svg'
+  link: 'https://github.com/mercedes-benz'
+  sponsor: true
+  tier: 'tier_3'
+
+- name: 'Handsontable'
+  image: 'handsontable.svg'
+  link: 'https://handsontable.com/docs/react-data-grid/?utm_source=Fastify_homepage&utm_medium=sponsorship&utm_campaign=library_sponsorship_2024'
+  sponsor: true
+  tier: 'tier_3'
+
+- name: 'TestMu AI'
+  image: 'testmuai.svg'
+  link: 'https://www.testmuai.com/?utm_medium=sponsor&utm_source=fastify'
+  sponsor: true
+  tier: 'tier_3'
+
+- name: 'SerpApi'
+  image: 'serpapi.png'
+  link: 'https://serpapi.com/?utm_source=fastify'
+  sponsor: true
+  tier: 'tier_4'
+
+- name: 'kogiQA'
+  image: 'kogiQALogo.svg'
+  link: 'https://kogiqa.com/'
+  sponsor: true
+  tier: 'tier_3'

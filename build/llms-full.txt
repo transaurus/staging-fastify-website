@@ -1,0 +1,240 @@
+# Fastify
+
+> Fast and low overhead web framework, for Node.js
+
+- [Why](/index.md)
+
+## benchmarks
+
+- [Benchmarks](/benchmarks.md): Leveraging our experience with Node.js performance, Fastify has been built from the ground up to be as fast as possible.
+
+## contribute
+
+- [Join the Fastify community](/contribute.md): Fastify is a growing and friendly community, and would be lucky to have your contributions! 🙇‍♂️ Contributions are always welcome, we only ask you to follow the Contribution Guidelines and the Code Of Conduct.
+
+## ecosystem
+
+- [Plugins](/ecosystem.md): - There are  core plugins and  community plugins
+
+## organizations
+
+- [Organizations using Fastify](/organizations.md): Fastify is proudly powering a large ecosystem of organizations and products out there.
+
+## resources
+
+- [Resources](/resources.md): Welcome to the Fastify resources page! Here, you can find a collection of useful resources for learning and exploring Fastify.
+
+## docs
+
+- [Fastify](/docs/latest.md)
+- [Fastify v5.2.x](/docs/v5.2.x.md)
+
+
+---
+
+# Full Documentation Content
+
+# Benchmarks
+
+Leveraging our experience with Node.js performance, Fastify has been built from the ground up to be **as fast as possible**.
+
+All the code used for our benchmarks is [available on GitHub](https://github.com/fastify/benchmarks/).
+
+Here's a brief summary on how Fastify overhead performed against the some other well known Node.js web frameworks (last updated on <!-- -->January 1, 2024<!-- -->):
+
+<!-- -->
+
+Please note that this is a synthetic, "hello world" benchmark that aims to evaluate the framework overhead. The overhead that each framework has on your application depends on your application, **you should always benchmark if performance matters to you**.
+
+Do you want to provide feedback on our benchmarks? [Open an issue on GitHub](https://github.com/fastify/benchmarks/issues) and we will get back to you!
+
+
+---
+
+Projects
+
+\[x]
+
+All the projects
+
+0
+
+<!-- -->
+
+issues
+
+***
+
+
+---
+
+# Plugins
+
+* There are **0** core plugins and **0** community plugins
+* A core plugin is a plugin maintained by the Fastify team, and we do our best to maintain them according to the Fastify [Long Term Support](https://github.com/fastify/fastify/blob/main/docs/Reference/LTS.md) policy
+* We guarantee that every community plugin respects Fastify best practices (tests, etc) at the time they have been added to the list. We offer no guarantee on their maintenance
+* Can't find the plugin you're looking for? No problem, [you can learn how to do it!](/docs/latest/Guides/Write-Plugin/)
+* Did you make a plugin and want it to be listed in the Community section, see [how to do it](#how-to-add-a-plugin-to-the-list)
+
+## Core Plugins[​](#core-plugins "Direct link to Core Plugins")
+
+**Name**
+
+<br />
+
+**Description**
+
+<br />
+
+No match
+
+No match
+
+## Community Plugins[​](#community-plugins "Direct link to Community Plugins")
+
+> ℹ️ Note: Fastify community plugins are part of the broader community efforts, and we are thankful for these contributions. However, they are not maintained by the Fastify team. Use them at your own discretion. If you find malicious code, please [open an issue](https://github.com/fastify/fastify/issues/new/choose) or submit a PR to remove the plugin from the list.
+
+**Name**
+
+<br />
+
+**Description**
+
+<br />
+
+No match
+
+No match
+
+## How to add a plugin to the list[​](#how-to-add-a-plugin-to-the-list "Direct link to How to add a plugin to the list")
+
+To add a plugin in the community section, these are the steps to do:
+
+1. Start contributing to the Fastify project following the [contributing guide](https://github.com/fastify/fastify/blob/main/CONTRIBUTING.md) and read the [on boarding process](https://github.com/fastify/.github/blob/main/GOVERNANCE.md#collaborator-nominations).
+
+2. Fork the [Fastify repository](https://github.com/fastify/fastify) on GitHub
+
+3. Add the plugin in the community list in `docs/Guides/Ecosystem.md` file.
+
+4. Submit the PR!
+
+As soon as the PR is reviewed and merged, the plugin will appear in this page!
+
+
+---
+
+# Organizations using Fastify
+
+Fastify is proudly powering a large ecosystem of organizations and products out there.
+
+Below is a list of our financial supporters and our collaborators' organizations adopting Fastify.
+
+## Financial supporters[​](#financial-supporters "Direct link to Financial supporters")
+
+* [![Handsontable is using Fastify](/img/organizations/handsontable.svg)](https://handsontable.com/docs/react-data-grid/?utm_source=Fastify_homepage\&utm_medium=sponsorship\&utm_campaign=library_sponsorship_2024)
+* [![kogiQA is using Fastify](/img/organizations/kogiQALogo.svg)](https://kogiqa.com/)
+* [![Mercedes-Benz Group is using Fastify](/img/organizations/mercedes-benz.svg)](https://github.com/mercedes-benz)
+* [![SerpApi is using Fastify](/img/organizations/serpapi.png)](https://serpapi.com/?utm_source=fastify)
+* [![TestMu AI is using Fastify](/img/organizations/testmuai.svg)](https://www.testmuai.com/?utm_medium=sponsor\&utm_source=fastify)
+* [![val town is using Fastify](/img/organizations/val-town.svg)](https://www.val.town/)
+
+## Collaborators' organizations[​](#collaborators-organizations "Direct link to Collaborators' organizations")
+
+* [![HospitalRun is using Fastify](/img/organizations/hospitalrun.svg)](https://hospitalrun.io/)
+* [![Nearform is using Fastify](/img/organizations/nearform.svg)](https://nearform.com)
+* [![Platformatic is using Fastify](/img/organizations/platformatic.svg)](https://platformatic.dev)
+
+*The logos displayed in this page are property of the respective organizations and they are not distributed under the same license as Fastify (MIT).*
+
+## How to be featured here[​](#how-to-be-featured-here "Direct link to How to be featured here")
+
+Is your organization using Fastify? That's great!
+
+If you would like your organization to have its logo featured in this list:
+
+1. Start contributing to the Fastify project following the [contributing guide](https://github.com/fastify/fastify/blob/main/CONTRIBUTING.md) and read the [on boarding process](https://github.com/fastify/.github/blob/main/GOVERNANCE.md#collaborator-nominations).
+
+Or become a [Tier 3 or 4 financial supporter](https://github.com/sponsors/fastify)!
+
+2. Fork the [Fastify website repository](https://github.com/fastify/website) on GitHub
+
+3. Add the logo in the `static/img/organizations` folder.
+
+Please make sure that your logo complies to the following specs:
+
+* Encoded in SVG (Scalable Vector Graphics) format
+* Be reasonably optimized/minified *(you can use [imageOptim](https://imageoptim.com/))*
+* Make sure image "width" or "height" are explicitly specified in the "svg" tag
+
+3. Update the `static/data/organizations.yml` file with a new entry
+
+Your entry must provide:
+
+* `name`: the name of your organization
+* `image`: the filename of the logo you added in the previous step
+* `link`: a link to a website that represents your organization
+* `sponsor`: a boolean value that indicates if your organization is a financial supporter
+* `tier`: the tier of your financial support (it can be `tier_3` or `tier_4`)
+
+4. Submit the PR!
+
+As soon as your PR is reviewed and merged, your awesome logo will appear in this page!
+
+
+---
+
+# Resources
+
+Welcome to the Fastify resources page! Here, you can find a collection of useful resources for learning and exploring Fastify.
+
+## Books[​](#books "Direct link to Books")
+
+If you're looking for an in-depth resource to learn Fastify, consider this book:
+
+* [Accelerating Server-Side Development with Fastify: A comprehensive guide to API development for building a scalable backend for your web apps](https://www.packtpub.com/product/accelerating-server-side-development-with-fastify/9781800563582)
+
+## Demo[​](#demo "Direct link to Demo")
+
+If learning is most effective through reading code:
+
+* [A concrete example of a Fastify demo application using what are considered best practices by the Fastify community](https://github.com/fastify/demo)
+
+## Talks[​](#talks "Direct link to Talks")
+
+Watch these talks to learn more about Fastify:
+
+* [A "fast" Introduction to Fastify - Matteo Collina, NearForm](https://www.youtube.com/watch?v=MOvLdfUhqrU)
+
+* [Take Your HTTP Server to Ludicrous Speed \[I\]](https://www.youtube.com/watch?v=gltzZjKYK1I)
+
+* [Nordic.js 2018 • Tomas Della Vedova - Why we built another framework](https://www.youtube.com/watch?v=ucatti2b7E4)
+
+* [A Fastify Tale of Shapes - Matteo Collina, NearForm](https://www.youtube.com/watch?v=g-6Ig8k6Nzc)
+
+* [Build a Community, Not a Framework - Matteo Collina, NearForm](https://www.youtube.com/watch?v=e0rdy7APH-o)
+
+* [1, 2, 3... Fastify! - Matteo Collina](https://www.youtube.com/watch?v=-X84Cq-nsLw)
+
+* [Building a modular monolith with Fastify - Matteo Collina, Node Congress 2023](https://www.youtube.com/watch?v=e1jkA-ee_aY\&t=1s)
+
+* [Decoding the Fastify plugin system with Manuel Spigolon](https://www.youtube.com/watch?v=BnnL7fAKqNU)
+
+* [Monoliths always pay their debts - Tomas Della Vedova - NodeJS Italian Conference 2018](https://www.youtube.com/watch?v=6ucyzQULlWw)
+
+* [NodeConf Remote 2020 - Luca Maraschi - From mess to mesh using Fastify](https://www.youtube.com/watch?v=l3mQfvq07CI)
+
+* [Fastify Masterclass - Matteo Collina - 2024](https://www.youtube.com/watch?v=x3SG71Ut2tA)
+
+
+---
+
+# Fastify
+
+
+---
+
+# Fastify v5.2.x
+
+
+---
+
