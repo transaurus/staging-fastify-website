@@ -1,0 +1,38 @@
+{
+  "title": {
+    "message": "Home",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Fastify Cheetah Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Docs": {
+    "message": "Docs",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Ecosystem": {
+    "message": "Ecosystem",
+    "description": "Navbar item with label Ecosystem"
+  },
+  "item.label.Benchmarks": {
+    "message": "Benchmarks",
+    "description": "Navbar item with label Benchmarks"
+  },
+  "item.label.Adopters": {
+    "message": "Adopters",
+    "description": "Navbar item with label Adopters"
+  },
+  "item.label.Contribute": {
+    "message": "Contribute",
+    "description": "Navbar item with label Contribute"
+  },
+  "item.label.Resources": {
+    "message": "Resources",
+    "description": "Navbar item with label Resources"
+  },
+  "item.label.Support": {
+    "message": "Support",
+    "description": "Navbar item with label Support"
+  }
+}

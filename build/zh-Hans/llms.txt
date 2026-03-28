@@ -1,0 +1,20 @@
+# Fastify
+
+
+## zh-Hans
+
+- [Docusaurus debug panel](/__docusaurus/debug.md)
+- [Docusaurus debug panel](/__docusaurus/debug/config.md)
+- [Docusaurus debug panel](/__docusaurus/debug/content.md)
+- [Docusaurus debug panel](/__docusaurus/debug/globalData.md)
+- [Docusaurus debug panel](/__docusaurus/debug/metadata.md)
+- [Docusaurus debug panel](/__docusaurus/debug/registry.md)
+- [Docusaurus debug panel](/__docusaurus/debug/routes.md)
+- [Benchmarks](/benchmarks.md): Leveraging our experience with Node.js performance, Fastify has been built from the ground up to be as fast as possible.
+- [Join the Fastify community](/contribute.md): Fastify is a growing and friendly community, and would be lucky to have your contributions! 🙇‍♂️ Contributions are always welcome, we only ask you to follow the Contribution Guidelines and the Code Of Conduct.
+- [Plugins](/ecosystem.md): - There are  core plugins and  community plugins
+- [Organizations using Fastify](/organizations.md): Fastify is proudly powering a large ecosystem of organizations and products out there.
+- [Resources](/resources.md): Welcome to the Fastify resources page! Here, you can find a collection of useful resources for learning and exploring Fastify.
+- [Fastify](/docs/latest.md)
+- [Fastify v5.2.x](/docs/v5.2.x.md)
+- [Why](/index.md): Fast and low overhead web framework, for Node.js
